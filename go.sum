@@ -1,0 +1,4 @@
+github.com/deitrix/multi-module/hello v0.1.0 h1:7WJegf3c8xmeajTztG2BbAP0eAuCwC0dqt2SOXnoM3Q=
+github.com/deitrix/multi-module/hello v0.1.0/go.mod h1:sOdw+qwzz9cqi3uvPsd743h7GrxTbcswdp2ryRubBo8=
+github.com/deitrix/multi-module/world v0.1.0 h1:IodAG9SsB6cK4lu5uQkr4Kn63gRGxf9zvP3J9eTX4lw=
+github.com/deitrix/multi-module/world v0.1.0/go.mod h1:E8VdzAEwH+aNBZC1x8pOT6C9KkCZPDTKNvgRVTL2F5I=
