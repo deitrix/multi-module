@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/deitrix/multi-module/hello"
+	"github.com/deitrix/multi-module/world"
+)
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println(world.Hello())
+	fmt.Println(hello.World())
 }
